@@ -1,0 +1,13 @@
+D:\testcode\DK Vb.net\console app\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\testcode\DK Vb.net\console app\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\testcode\DK Vb.net\console app\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\testcode\DK Vb.net\console app\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.xml
+D:\testcode\DK Vb.net\console app\ConsoleApp3\ConsoleApp3\bin\Debug\ClassLibrary1.dll
+D:\testcode\DK Vb.net\console app\ConsoleApp3\ConsoleApp3\bin\Debug\ClassLibrary1.pdb
+D:\testcode\DK Vb.net\console app\ConsoleApp3\ConsoleApp3\bin\Debug\ClassLibrary1.xml
+D:\testcode\DK Vb.net\console app\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.vbprojResolveAssemblyReference.cache
+D:\testcode\DK Vb.net\console app\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.Resources.resources
+D:\testcode\DK Vb.net\console app\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.vbproj.GenerateResource.Cache
+D:\testcode\DK Vb.net\console app\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\testcode\DK Vb.net\console app\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.xml
+D:\testcode\DK Vb.net\console app\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
